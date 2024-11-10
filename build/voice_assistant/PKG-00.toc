@@ -1,0 +1,678 @@
+('D:\\PycharmProjects\\venv '
+ 'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\voice_assistant.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('v', None, 'OPTION'),
+  ('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('voice_assistant',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\voice_assistant.py',
+   'PYSOURCE'),
+  ('speech_recognition\\flac-win32.exe',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\flac-win32.exe',
+   'BINARY'),
+  ('python312.dll', 'C:\\Python312\\python312.dll', 'BINARY'),
+  ('pywin32_system32\\pythoncom312.dll',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\pywin32_system32\\pythoncom312.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('select.pyd', 'C:\\Python312\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python312\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python312\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python312\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python312\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python312\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python312\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\Python312\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python312\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Python312\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\Python312\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\Python312\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\Python312\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('_wmi.pyd', 'C:\\Python312\\DLLs\\_wmi.pyd', 'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd', 'C:\\Python312\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\Python312\\VCRUNTIME140.dll', 'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Python312\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'C:\\Python312\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('libffi-8.dll', 'C:\\Python312\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('libssl-3.dll', 'C:\\Python312\\DLLs\\libssl-3.dll', 'BINARY'),
+  ('base_library.zip',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\VoiceAssistant\\build\\voice_assistant\\base_library.zip',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\flac-linux-x86',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'DATA'),
+  ('speech_recognition\\flac-mac',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\flac-mac',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86_64',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\flac-linux-x86_64',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\licenses\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\platformdirs-4.2.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\autocommand-2.2.2.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\autocommand-2.2.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.BSD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.context-5.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions-4.12.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\inflect-7.3.1.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\inflect-7.3.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.text-3.12.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco.functools-4.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools-10.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\tomli-2.0.1.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\tomli-2.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources-6.4.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.APACHE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\packaging-24.1.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\backports.tarfile-1.2.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\zipp-3.19.2.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\zipp-3.19.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\RECORD',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\METADATA',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\LICENSE',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\LICENSE',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\entry_points.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\top_level.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\LICENSE.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\METADATA',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\METADATA',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\entry_points.txt',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\INSTALLER',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\RECORD',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\REQUESTED',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('typeguard-4.3.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\typeguard-4.3.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.43.0.dist-info\\WHEEL',
+   'D:\\PycharmProjects\\venv '
+   'voiceAssistant\\myenv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.43.0.dist-info\\WHEEL',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
